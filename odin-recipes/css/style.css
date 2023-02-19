@@ -1,0 +1,56 @@
+#title {
+    color: aqua ; text-align: center; font-size: 300%;
+}
+
+#contents {
+    font-size: 200%;
+}
+
+div {
+    color: purple;
+    background-color: black;
+  }
+
+  p {
+    color: red; font-size: 50px; font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+body {
+    background-color: black;
+}
+
+#page1 {
+    background-color: rgba(250, 8, 230, 0.521);
+}
+ul {
+    color: aliceblue;
+}
+
+#lasagnaol {
+    color: rgb(255, 255, 255);
+}
+
+.image1 {
+    width: 15%;
+    height: 10%;
+    border-radius: 35%;
+    position: relative; left: 225px; bottom: 150px; 
+
+
+}
+
+.image2 {
+    width: 15%;
+    height: 10%;
+    border-radius: 35%;
+    position: relative; left: -40px; top: 225px;  
+}
+
+ul {
+    font-size: 40px;
+}
+
+ol {
+    font-size: 40px;
+    color: white;
+}
